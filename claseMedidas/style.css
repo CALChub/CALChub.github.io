@@ -1,0 +1,34 @@
+main {
+
+    width: 100% ;
+    height: 500px;
+    box-sizing: border-box;
+    
+
+}
+
+
+.titulo{
+
+    background-color: red;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+    position:relative;
+    bottom: -10px;
+    display: inline-block;
+    border: 2px black dotted;
+    
+    
+
+}
+
+.Texto{
+
+    background-color: rgb(106, 95, 95);
+    border-radius: 15px;
+    width: 500px;
+    height: 500px;
+    border: 2px black dotted;
+
+}
